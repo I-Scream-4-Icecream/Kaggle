@@ -4,3 +4,4 @@
 */catboost_info
 */*.pkl
 .DS_Store
+kaggle.json
